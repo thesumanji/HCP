@@ -1,0 +1,1 @@
+-- Placeholder for HCP/data-preprocessing/common/error_handling_template.sql

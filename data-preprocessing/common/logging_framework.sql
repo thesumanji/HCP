@@ -1,0 +1,1 @@
+-- Placeholder for HCP/data-preprocessing/common/logging_framework.sql

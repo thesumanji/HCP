@@ -1,0 +1,1 @@
+-- Placeholder for HCP/data-preprocessing/scripts/03_load.sql

@@ -1,0 +1,1 @@
+-- Placeholder for HCP/data-preprocessing/common/validate_helpers.sql
