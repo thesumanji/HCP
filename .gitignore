@@ -1,1 +1,21 @@
-<!-- Placeholder for HCP/.gitignore -->
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio working folder
+.vs/
+
+# ASP.NET & Blazor environment config
+appsettings*.json
+secrets.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
